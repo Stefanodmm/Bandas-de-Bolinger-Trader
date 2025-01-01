@@ -1,5 +1,3 @@
-¡Claro! Con gusto te explico nuevamente las Bandas de Bollinger sin utilizar imágenes:
-
 **¿Qué son las Bandas de Bollinger?**
 
 Las Bandas de Bollinger son una herramienta de análisis técnico que nos ayuda a visualizar la volatilidad y la tendencia de un activo financiero (como una acción, un índice o una criptomoneda). Imagina que son como un radar que nos indica si el precio de un activo está comportándose de manera normal o si está experimentando movimientos inusuales.
