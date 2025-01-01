@@ -18,3 +18,11 @@ Las Bandas de Bollinger son una herramienta de análisis técnico ampliamente ut
 * **Expansión de las bandas:** Puede indicar que el mercado es volátil y que los precios podrían experimentar grandes movimientos.
 * **Precio tocando la banda superior:** Podría ser una señal de venta, ya que el activo podría estar sobrecomprado.
 * **Precio tocando la banda inferior:** Podría ser una señal de compra, ya que el activo podría estar sobrevendido.
+
+### Opinion de allegados que viven del trading:
+No cren que solo este indicador sea un eficaz por ella sola por:
+  * Las entradas probables con este indicador son poco comunes
+   * Las bandas cambian muy exporadicamente
+
+## Versiones:
+### Version 1:
