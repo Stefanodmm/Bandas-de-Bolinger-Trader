@@ -26,3 +26,4 @@ No cren que solo este indicador sea un eficaz por ella sola por:
 
 ## Versiones:
 ### Version 1:
+* Señal con json
