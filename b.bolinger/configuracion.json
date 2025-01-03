@@ -1,0 +1,7 @@
+{
+    "periodo": 20,
+    "num_desviaciones": 2,
+    "temporalidad": "1h",
+    "tiempo_espera": 5,
+    "par": "BTCUSDT"
+}
